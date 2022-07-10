@@ -7,6 +7,8 @@ Create a repository called restaurant-css-framework in which you must realise a 
 
 The website must be responsive, at least for small and medium screens. It must at least have five accessible pages: welcome, menu, pictures, restaurants and contact.
 
+Use technelogie PhpMyAdmin to create table to contain data users from webside.
+
 <h4>Welcome</h4>
 A page with one Jumbotron and two panels to show news (promo, events, etc…​).
 
